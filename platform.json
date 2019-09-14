@@ -9,7 +9,8 @@
   "version": "0.0.1",
   "packageRepositories": [
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
-    "http://dl.platformio.org/packages/manifest.json"
+    "http://dl.platformio.org/packages/manifest.json",
+    "https://raw.githubusercontent.com/stevecarren/linkit7697/master/manifest.json"
   ],
   "frameworks": {
     "arduino": {
