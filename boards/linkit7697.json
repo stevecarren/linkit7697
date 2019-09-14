@@ -1,0 +1,14 @@
+{
+    "connectivity": [
+      "wifi"
+    ],
+    "frameworks": [
+      "arduino"
+    ],
+    "name": "Linkit 7697",
+    "url": "",
+    "vendor": "Seeed Studio/MediaTek",
+    "upload": {
+      "maximum_ram_size": 360448,
+      "maximum_size": 2019328}
+  }
