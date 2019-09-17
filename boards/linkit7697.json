@@ -1,6 +1,12 @@
 {
-    "connectivity": [
-      "wifi"
+  "build": {
+    "f_cpu": "192000000L",
+    "mcu": "MT7697",
+    "core": "ARM Cortex-M4"
+  },
+  "connectivity": [
+      "wifi",
+      "bluetooth"
     ],
     "frameworks": [
       "arduino"
